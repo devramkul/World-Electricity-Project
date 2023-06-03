@@ -21,4 +21,4 @@ Ensured data quality by eliminating duplicates, handling missing values, and sta
 Enabled accurate and reliable analysis by providing clean and consistent datasets.
 Facilitated data-driven decision-making by delivering high-quality data for analysis.
 
-![Screenshot](Dashboard.png)
+![Screenshot](Dashboard_.png)
