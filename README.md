@@ -31,5 +31,5 @@ Facilitated data-driven decision-making by delivering high-quality data for anal
 
 ![Screenshot](Dashboard_.png)
 
-# challenges
+# Challenges
 Dealing with an excessive number of columns presented challenges in understanding variable relationships, identifying patterns, and conducting data cleaning tasks in my project. To overcome this, I broke down complex queries into smaller, more manageable parts. Additionally, I streamlined the analysis by selecting only essential columns. Another hurdle was finding common elements across different tables, which was resolved through a combination of SQL and Excel for a comprehensive solution.
