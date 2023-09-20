@@ -8,12 +8,12 @@ The project showcases expertise in web scraping, data cleaning, and manipulation
 By successfully collecting and cleaning the data, this project enables data-driven decision-making.
 
 # Methodology 
-Identifying data sources online and via APIs.
-Employing web scraping techniques to collect data.
-Integrating with APIs to gather external data.
-Cleaning data by removing duplicates, handling missing values, and standardizing formats using pandas.
-Performing advanced data processing and transformations with SQL queries.
-Ensuring data quality and maintaining documentation for transparency and reproducibility.
+1.Identifying data sources online and via APIs.
+2.Employing web scraping techniques to collect data.
+3.Integrating with APIs to gather external data.
+4.Cleaning data by removing duplicates, handling missing values, and standardizing formats using pandas.
+5.Performing advanced data processing and transformations with SQL queries.
+6.Ensuring data quality and maintaining documentation for transparency and reproducibility.
 
 # Features
 
