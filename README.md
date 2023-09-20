@@ -29,6 +29,22 @@ Ensured data quality by eliminating duplicates, handling missing values, and sta
 Enabled accurate and reliable analysis by providing clean and consistent datasets.
 Facilitated data-driven decision-making by delivering high-quality data for analysis.
 
+# Key Insights
+
+1. Global Consumption Trends: Identify trends in global electricity consumption, including seasonal variations and long-term growth patterns.
+
+2. Energy Source Mix: Understand the composition of energy sources used for electricity generation globally, with a focus on renewable energy adoption.
+
+3. Peak Demand Analysis: Determine peak electricity demand periods to aid in infrastructure planning and reliability.
+
+4. Energy Efficiency Opportunities: Identify regions or industries with high energy consumption per capita, highlighting energy efficiency improvement opportunities.
+
+5. Geographical Disparities: Analyze disparities in electricity access and consumption among countries and regions, addressing energy inequality concerns.
+
+6. Economic Implications: Investigate the relationship between electricity consumption and economic development indicators.
+
+7. Renewable Energy Growth: Track the adoption rates of renewable energy sources and factors driving their expansion.
+
 ![Screenshot](Dashboard_.png)
 
 # Challenges
