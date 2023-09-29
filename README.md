@@ -7,6 +7,9 @@ The objective is to ensure data quality by removing duplicates, handling missing
 The project showcases expertise in web scraping, data cleaning, and manipulation using pandas and SQL queries. 
 By successfully collecting and cleaning the data, this project enables data-driven decision-making.
 
+# Aim
+The primary objective is to ensure data quality by removing duplicates, handling missing values, and standardizing formats. This project showcases expertise in web scraping, data cleaning, and data manipulation using pandas and SQL queries. 
+
 # Methodology 
 1. Identifying data sources online and via APIs.
 2. Employing web scraping techniques to collect data.
@@ -15,12 +18,16 @@ By successfully collecting and cleaning the data, this project enables data-driv
 5. Performing advanced data processing and transformations with SQL queries.
 6. Ensuring data quality and maintaining documentation for transparency and reproducibility.
 
+![Json Code](PNG%20Files/Json%20code.png)
+
 # Features
 
 Utilized web scraping techniques to collect data from  online sources.
 Integrated with APIs to gather data from external platforms.
 Implemented data cleaning processes to remove duplicates, handle missing values, and standardize formats.
 Utilized pandas library for data manipulation and SQL queries for advanced data processing.
+
+![Data Cleaning](PNG%20Files/Data%20Cleaning.png)
 
 # Results and Impact
 
